@@ -1,10 +1,8 @@
 package com.amipatel.mad_practical_7_21012011065
-
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.webkit.WebSettings
 import android.webkit.WebView
-
 class YouTubeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
